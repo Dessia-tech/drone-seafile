@@ -17,7 +17,7 @@ pipeline:
         from_secret: repo_id
       seafile_token:
         from_secret: seafile_token
-      file: upload_test.md
+      files: upload_test.md
       root_directory: '/subdir/'
 
 ```
