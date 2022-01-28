@@ -21,3 +21,7 @@ pipeline:
       root_directory: '/subdir/'
 
 ```
+
+### Parameters: 
+* repo_id: the seafile library id that can be found in its URL
+* token: a token created through the API: https://lins05.gitbooks.io/seafile-docs/content/develop/web_api.html
